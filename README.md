@@ -1,1 +1,1 @@
-### zombie-factory-solidity - [https://cryptozombies.io/](https://cryptozombies.io/)
+### crypto zombies for reference - [https://cryptozombies.io/](https://cryptozombies.io/)
